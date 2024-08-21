@@ -1,4 +1,4 @@
-# ComputerNetworkingAlgorithms
+# Computer Networking Algorithms
  Each file with a unique number is meant to be run independently.
 
 1. The distance vector code ([link](https://github.com/avan36/ComputerNetworkingAlgorithms/blob/1df12c7cacabb63364fecb95773043c86717c844/1.distance_vector_algorithm(run_on_each_router).py)) is my implementation of the distance vector algorithm in computer networks 
